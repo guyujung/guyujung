@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=guyujung)](https://solved.ac/guyujung)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyujung&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyujung&layout=Demo&theme=onedark)
 
 
 <!--
