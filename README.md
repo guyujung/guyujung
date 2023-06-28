@@ -3,6 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyujung&layout=compact&theme=onedark)
 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
 
 <!--
 **guyujung/guyujung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
