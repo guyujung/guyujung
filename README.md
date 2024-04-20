@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Github Stats [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/guyujung&hit-counter&count_bg=%2308274D&title_bg=%23E1DB6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=guyujung&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+##Github Stats [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/guyujung&hit-counter&count_bg=%2308274D&title_bg=%23E1DB6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div><img src="https://github-readme-stats.vercel.app/api?username=guyujung&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
